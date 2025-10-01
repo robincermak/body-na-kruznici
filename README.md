@@ -1,10 +1,6 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+# Zdrojový kód aplikace se nachází v souboru `streamlit_app.py`.
 
 1. Install the requirements
 
